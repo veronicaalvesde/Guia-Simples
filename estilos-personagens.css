@@ -1,27 +1,6 @@
 	img.imagens_personagens {
 		float: left;
-		width: 25%;
-		padding: 5%;
-		display: block;
-	}
-
-	img.imagens_personagens2 {
-		float: left;
-		width: 30%;
-		padding: 5%;
-		display: block;
-	}
-
-	#squigly-img {
-		float: left;
-		width: 20%;
-		padding: 5%;
-		display: block;
-	}
-
-	#double-img {
-		float: left;
-		width: 15%;
+		width: 35%;
 		padding: 5%;
 		display: block;
 	}
