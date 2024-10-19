@@ -1,0 +1,61 @@
+	ol {
+		text-align: justify;
+		color: lightgrey;
+		background-color: rgba(14, 24, 41, 100%);
+		border: 1px ridge gold;
+		padding: 15px;
+		padding-left: 30px;
+		margin-left: 30%;
+		margin-right: 30%;
+	}
+
+	table {
+		background-color: rgba(14, 24, 41, 100%);
+		margin: auto;
+		border: 1px solid gold;
+		border-collapse: collapse;
+	}
+
+	thead {
+		background-color: rgba(0, 64, 128, 100%);
+		border: 1px ridge gold;
+	}
+
+	tfoot {
+		background-color: rgba(0, 64, 128, 100%);
+		border: 1px ridge gold;
+		text-align: center;
+	}
+
+	caption {
+		font-size: 75%;
+		background-color: rgba(192, 192, 192, 25%);
+		color: lightgrey;
+	}
+
+	td {
+		padding: 3px 10px;
+		color: lightgrey;
+	}
+
+	th {
+		padding: 3px 10px;
+		color: black;
+	}
+
+	#card-games {
+		margin: aling;
+		padding-bottom: 10px;
+		width: 100%;
+	}
+
+	header li:nth-of-type(2) {
+		display: inline-block;
+		list-style: none;
+		margin-left: 10%;
+		padding: 10px;
+		border: 1px gold solid;
+		border-radius: 5px;
+		background-color: rgb(27, 30, 76);
+		color: gold;
+	}

@@ -1,0 +1,18 @@
+header li:nth-of-type(1) {
+    display: inline-block;
+    list-style: none;
+    margin-left: 10%;
+    padding: 10px;
+    border: 1px gold solid;
+    border-radius: 5px;
+    background-color: rgb(27, 30, 76);
+    color: gold;
+}
+
+#my{
+    float: right;
+    width: 25%;
+    margin-left: 10px;
+    border-radius: 10%;
+    border: 1px gold solid;
+}
