@@ -100,7 +100,7 @@
 	}
 
 	a:not(nav a):link {
-		color: black;
+		color: lightgray;
 		text-decoration: none;
 	}
 
